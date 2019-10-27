@@ -12,7 +12,7 @@
 }
 
 .nav .divider {
-    margin-top: 30px;
+    margin-top: -3px;
     border: none;
     height: 2px;
     color: white;
@@ -51,7 +51,9 @@ i.arrow {
     margin-right: 60px;
     width: 60px;
     left: 34px;
-    height: 30px
+    height: 30px;
+    top: 14px;
+
 }
 
 
