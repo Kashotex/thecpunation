@@ -15,8 +15,8 @@
     margin-top: -3px;
     border: none;
     height: 2px;
-    color: white;
-    background-color: white;
+    color: rgb(43,64,159);
+    background-color: rgb(43,64,159);
 }
 
 .nav .content {
