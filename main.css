@@ -15,8 +15,8 @@
     margin-top: -3px;
     border: none;
     height: 2px;
-    color: rgb(43,64,159);
-    background-color: rgb(43,64,159);
+    color: white;
+    background-color: white;
 }
 
 .nav .content {
@@ -124,7 +124,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     margin-top:auto;
-    background:rgb(255, 0, 0);
+    background:rgb(43,64,159);
     box-sizing: border-box;
     padding:8px;
     width:100%;
@@ -132,7 +132,7 @@ body {
     text-shadow:none;
 }
 .footer a {
-    color:white;
+    color: rgb(43,64,159);
 }
 .header {
     display:flex;
